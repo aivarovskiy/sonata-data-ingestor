@@ -11,7 +11,7 @@ The Sonata Data Ingestor retrieves release data from the [MusicBrainz API](https
 
 | Repository | Description |
 |---|---|
-| [Sonata](https://github.com/aivarovsky/sonata-app) | Web application that allows you to search for music releases by their cover art description. |
+| [Sonata](https://github.com/aivarovsky/sonata-app) | Web application that allows you to search for music releases by their cover description. |
 | [Sonata API](https://github.com/aivarovsky/sonata-api) | API for generating embeddings of user queries for the Sonata project. |
 | Sonata Data Ingestor | Data ingestor for the Sonata project. |
 
